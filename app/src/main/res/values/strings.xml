@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StudentDemo</string>
+    <string name="btnAddData">Add Data</string>
+    <string name="btnShow">Show data</string>
+</resources>
